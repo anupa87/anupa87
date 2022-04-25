@@ -4,7 +4,6 @@
 
 - :computer:  Aspiring web developer 
 
-- 🏫 I'm studying Full Stack Web Developement at Business College Helsinki since January 2022
 
 - 🌱 I’m currently learning about HTML5, CSS3, JavaScript, React, PHP, Symfony & Databases 
 
