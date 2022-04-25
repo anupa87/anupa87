@@ -5,7 +5,7 @@
 - :computer:  Aspiring web developer 
 
 
-- 🌱 I’m currently learning about HTML5, CSS3, JavaScript, React, PHP, Symfony & Databases 
+- 🌱 Currently learning about HTML5, CSS3, JavaScript, React, PHP, Symfony & Databases 
 
 
 
