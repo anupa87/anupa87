@@ -2,7 +2,7 @@
 
 ### I'm Anupa 🦋
 
-- :computer:  Future web developer 
+- :computer:  Aspiring web developer 
 
 - 🏫 I'm studying Full Stack Web Developement at Business College Helsinki since January 2022
 
