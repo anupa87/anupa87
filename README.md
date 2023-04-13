@@ -2,10 +2,10 @@
 
 ### I'm Anupa 🦋
 
-- :computer:  Aspiring web developer 
+- :computer:  Full stack web developer 
 
 
-- 🌱 Currently learning about HTML5, CSS3, JavaScript, React, PHP, Symfony,Drupal & Databases 
+- 🌱 Currently learning about HTML5, CSS3, JavaScript, React, PHP, Symfony,Drupal, Java & Databases 
 
 
 
