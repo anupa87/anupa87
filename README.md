@@ -42,6 +42,3 @@ I'm a **software developer** with a background in **public health research**, pa
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anupathapa/)  
 - 📫 Email: thapaanupa@gmail.com  
-
-![Anupa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupa87&show_icons=true&theme=default)
-
