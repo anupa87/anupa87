@@ -1,13 +1,42 @@
 ## Hello World 👋 
 
 ### I'm Anupa 🦋
+**Software Developer | Public Health Researcher | Health Tech Enthusiast** 
 
-- :computer:  Full stack web developer 
+---
 
+### 🌱 About Me
+I'm a **software developer** with a background in **public health research**, passionate about merging **technology and wellbeing** to make a real-world impact.
 
-- 🌱 Currently learning about HTML5, CSS3, JavaScript, React, PHP, Symfony,Drupal, Java & Databases 
+---
 
+### 💻 Technical Skills
 
+- **Languages & Frameworks:**  
+  JavaScript (Node.js, React, Redux), Java (Spring Boot, Quarkus), SQL  
+
+- **Databases:**  
+  PostgreSQL, MySQL  
+
+- **Cloud & DevOps:**  
+  AWS (Certified Cloud Practitioner), Docker, GitHub, Linux  
+
+- **Tools & Design:**  
+  Figma, Adobe XD, Trello, Canva  
+
+---
+
+### 🚀 Current Focus
+
+- Focusing on **Java backend development**, **API integration**, and **cloud-native applications**. 
+- Exploring **data visualization tools** and **health data technologies**, with a focus on **sleep health** and **nutrition**.
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anupathapa/)  
+- 📫 Email: thapaanupa@gmail.com  
 
 
 <!--
