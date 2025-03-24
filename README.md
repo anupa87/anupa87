@@ -29,7 +29,7 @@ I'm a **software developer** with a background in **public health research**, pa
 ### 🚀 Current Focus
 
 - Focusing on **Java backend development**, **API integration**, and **cloud-native applications**. 
-- Exploring **data visualization tools** and **health data technologies**, with a focus on **sleep health** and **nutrition**.
+- Exploring **health data technologies** and **data visualization tools**, with a focus on **sleep health** and **nutrition**.
 
 ---
 
