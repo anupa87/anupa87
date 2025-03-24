@@ -35,6 +35,7 @@ I'm a **software developer** with a background in **public health research**, pa
 
 - Focusing on **Java backend development**, **API integration**, and **cloud-native applications**. 
 - Exploring **health data technologies** and **data visualization tools**, with a focus on **sleep health** and **nutrition**.
+  
 📌 Currently building hobby projects — stay tuned!
 
 ---
